@@ -1,0 +1,28 @@
+# created by virtualenv automatically
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.sqlite3
+*.db
+*.csv
+
+# VSCode
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+*.log
+
+# Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+appBKP.py
